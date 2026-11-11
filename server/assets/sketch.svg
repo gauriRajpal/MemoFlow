@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 280" role="img" aria-label="Wireframe of an input flowing into a preview">
+  <rect width="880" height="280" rx="18" fill="#f4efe6"/>
+  <rect x="36" y="36" width="250" height="208" rx="8" fill="#fffdf8" stroke="#2a2a2a" stroke-width="3"/>
+  <text x="58" y="72" fill="#2a2a2a" font-family="Georgia, serif" font-size="22">Input</text>
+  <rect x="58" y="96" width="206" height="42" rx="4" fill="#fff" stroke="#2a2a2a" stroke-width="3"/>
+  <path d="M310 140 H360" stroke="#2a2a2a" stroke-width="3" fill="none"/>
+  <path d="M348 128 L364 140 L348 152" stroke="#2a2a2a" stroke-width="3" fill="none"/>
+  <rect x="390" y="36" width="280" height="208" rx="8" fill="#fffdf8" stroke="#2a2a2a" stroke-width="3"/>
+  <text x="412" y="72" fill="#2a2a2a" font-family="Georgia, serif" font-size="22">Preview</text>
+  <rect x="412" y="92" width="120" height="78" rx="4" fill="#fff" stroke="#2a2a2a" stroke-width="3"/>
+  <path d="M448 140 l16 14 28-32" fill="none" stroke="#2a2a2a" stroke-width="3"/>
+  <circle cx="500" cy="188" r="8" fill="none" stroke="#2a2a2a" stroke-width="3"/>
+  <circle cx="528" cy="188" r="8" fill="none" stroke="#2a2a2a" stroke-width="3"/>
+  <path d="M412 214 H640 M412 228 H600" stroke="#2a2a2a" stroke-width="3"/>
+  <text x="700" y="92" fill="#2c2c2c" font-family="Georgia, serif" font-size="18">keep it simple</text>
+  <text x="700" y="124" fill="#2f7d4f" font-family="Georgia, serif" font-size="18">show result early</text>
+  <text x="700" y="156" fill="#2c2c2c" font-family="Georgia, serif" font-size="18">no account yet</text>
+</svg>
